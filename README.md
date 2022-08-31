@@ -11,4 +11,4 @@ Matheus Silva
 - É necessário ter o Java versão 17 ou superior instalado
 - Em release, baixar o executável .jar 
 - no windows basta clicar 2x com o mouse
-- no Linuz transformar o arquivo em executável
+- no Linux transformar o arquivo em executável
