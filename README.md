@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/matheussilva1998/portfolio-java)
 
-# Título portfolio projeto
+# Título Portfolio projeto
 descrição do projeto
 ## Autor
 Matheus Silva
@@ -11,4 +11,4 @@ Matheus Silva
 - É necessário ter o Java versão 17 ou superior instalado
 - Em release, baixar o executável .jar 
 - no windows basta clicar 2x com o mouse
-- no Linux transformar o arquivo em executável
+- no Linuz transformar o arquivo em executável
